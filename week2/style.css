@@ -1,0 +1,90 @@
+body {
+    font-family: 'Indie Flower', cursive;
+    height:100vh;
+    background-color: antiquewhite;
+    font-size: 35px;
+    color: #997a56;
+}
+
+.container {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+.text-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.animate1 {
+    animation: rotateAndScale 2s infinite;
+}
+
+@keyframes rotateAndScale {
+    0% {
+        transform: scale(0.1) rotate(0deg);
+    }
+    100% {
+        transform: scale(1.5) rotate(360deg);
+    }
+}
+
+.button {
+    display: inline-block;
+    background-color: #997a56;
+    border: none;
+    color: antiquewhite;
+    text-align: center;
+    font-size: 25px;
+    padding: 15px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+    border-radius: 12px;
+  }
+
+.button span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+.button span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+.button:hover span {
+    padding-right: 25px;
+  }
+  
+.button:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+
+
+.container1 {
+    display: block;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hidden {
+    display: none;
+}
