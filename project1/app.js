@@ -20,7 +20,7 @@ fetch(url)
     return response.json();
   })
   .then(data => {   
- 
+    console.log(data);
     for (let i = 0; i < Cakes.length; i++) {
         var caketoppingselect = document.getElementById("caketoppingselect");
         var caketoppingoption = document.getElementById("caketoppingoption");    
