@@ -1,0 +1,990 @@
+{
+  "Cupcakes": {
+    "cake": [
+      {
+        "id": 1,
+        "name": "Chocolate cake",
+        "img": "https://i.ibb.co/Gxbmj1C/chocolate-cake.png"
+      },
+      {
+        "id": 2,
+        "name": "Vanilla cake",
+        "img": "https://i.ibb.co/z4c8BbL/vanilla-cake.png"
+      },
+      {
+        "id": 3,
+        "name": "Red velvet cake",
+        "img": "https://i.ibb.co/cFNtyVv/red-velvet-cake.png"
+      },
+      {
+        "id": 4,
+        "name": "Lemon cake",
+        "img": "https://i.ibb.co/gt3f2PJ/lemon-cake.png"
+      }
+    ],
+    "icing": [
+      {
+        "id": 1,
+        "name": "Chocolate buttercream",
+        "img": "https://i.ibb.co/SwgdZwv/Chocolate.png"
+      },
+      {
+        "id": 2,
+        "name": "Vanilla buttercream",
+        "img": "https://i.ibb.co/T2qqKB6/Cream-cheese.png"
+      },
+      {
+        "id": 3,
+        "name": "Mint buttercream",
+        "img": "https://i.ibb.co/sCpfzCM/Mint.png"
+      },
+      {
+        "id": 4,
+        "name": "Lemon buttercream",
+        "img": "https://i.ibb.co/fYDNpfg/Lemon.png"
+      },
+      {
+        "id": 5,
+        "name": "Peanut buttercream",
+        "img": "https://i.ibb.co/r3HYszh/Peanut-butter.png"
+      },
+      {
+        "id": 6,
+        "name": "Strawberry buttercream",
+        "img": "https://i.ibb.co/JQTKfhq/Strawberry.png"
+      },
+      {
+        "id": 7,
+        "name": "Pink vanilla buttercream",
+        "img": "https://i.ibb.co/BPbJfs1/Pink-vanilla.png"
+      },
+      {
+        "id": 8,
+        "name": "Cream cheese buttercream",
+        "img": "https://i.ibb.co/T2qqKB6/Cream-cheese.png"
+      },
+      {
+        "id": 9,
+        "name": "Blueberry buttercream",
+        "img": "https://i.ibb.co/C2Y01Mp/Blueberry.png"
+      }
+    ],
+    "sprinkles": [
+      {
+        "id": 1,
+        "name": "Pink pearls",
+        "img": "https://i.ibb.co/XLgCVWb/Pink-pearls.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Sugar strands",
+        "img": "https://i.ibb.co/fS8XGyf/Sweet-strands.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Sweet crystal",
+        "img": "https://i.ibb.co/GdMrPjQ/Sweet-crystal.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Sanding sugar",
+        "img": "https://i.ibb.co/C1JpsVS/Sanding-sugar.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Heart-shaped sprinkles",
+        "img": "https://i.ibb.co/VppgmJB/Hearts.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Chocolate chip",
+        "img": "https://i.ibb.co/DQzP70h/Chocolate-chip.jpg"
+      }
+    ],
+    "topping": [
+      {
+        "id": 1,
+        "name": "Salted caramel",
+        "img": "https://i.ibb.co/Dt47B89/salted-caramel.png"
+      },
+      {
+        "id": 2,
+        "name": "Vanilla glaze",
+        "img": "https://i.ibb.co/pzhWKkF/vanilla-glaze.png"
+      },
+      {
+        "id": 3,
+        "name": "Fruit passion",
+        "img": "https://i.ibb.co/608XvWq/fruit-passion.png"
+      }
+    ],
+    "best-sellers": [
+      {
+        "id": 1,
+        "name": "Vanilla dream",
+        "info": "pink vanilla buttercream on vanilla cake",
+        "img": "https://i.ibb.co/QPQcs6b/vanilla-dream.png"
+      },
+      {
+        "id": 2,
+        "name": "Chocolate sensation",
+        "info": "chocolate buttercream on chocolate cake",
+        "img": "https://i.ibb.co/C0wbNXQ/chocolate-sensation.png"
+      },
+      {
+        "id": 3,
+        "name": "Dark Angel",
+        "info": "cream cheese buttercream on chocolate cake",
+        "img": "https://i.ibb.co/kQsb6P2/dark-angel.png"
+      },
+      {
+        "id": 4,
+        "name": "Red Velvet",
+        "info": "cream cheese buttercream on red velvet cake",
+        "img": "https://i.ibb.co/867jkB5/red-velvet.png"
+      },
+      {
+        "id": 5,
+        "name": "Blueberry Bomb",
+        "info": "blueberry buttercream on chocolate cake",
+        "img": "https://i.ibb.co/nDGvGvt/blueberry-bomb.png"
+      }
+    ]
+  },
+
+  "Cakes": {
+    "cake": [
+      {
+        "id": 1,
+        "name": "Vanilla cake",
+        "img": "https://i.ibb.co/kGmfwFc/vanilla.png"
+      },
+      {
+        "id": 2,
+        "name": "Chocolate cake",
+        "img": "https://i.ibb.co/phb5RDh/chocolate.png"
+      }
+    ],
+    "buttercream": [
+      {
+        "id": 1,
+        "name": "Oreo Madness",
+        "img": "https://i.ibb.co/0nN5fGW/oreo.png"
+      },
+      {
+        "id": 2,
+        "name": "Very Berry Raspberry",
+        "img": "https://i.ibb.co/sJbpn3N/raspberry.png"
+      },
+      {
+        "id": 3,
+        "name": "Reece's",
+        "img": "https://i.ibb.co/YTsBrm7/reeses.png"
+      },
+      {
+        "id": 4,
+        "name": "Cookie Monster",
+        "img": "https://i.ibb.co/PMW5gHW/cookies.png"
+      },
+      {
+        "id": 5,
+        "name": "Blueberry sensation",
+        "img": "https://i.ibb.co/HN8TLsk/blueberry.png"
+      },
+      {
+        "id": 6,
+        "name": "Matcha",
+        "img": "https://i.ibb.co/T263Wc4/matcha.png"
+      }
+    ],
+    "toppings": [
+      {
+        "id": 1,
+        "name": "White chocolate shards",
+        "img": "https://i.ibb.co/RhG1yB5/white-chocolate-shards.png"
+      },
+      {
+        "id": 2,
+        "name": "White chocolate drip",
+        "img": "https://i.ibb.co/gjxD49D/white-cocolate-drip.png"
+      },
+      {
+        "id": 3,
+        "name": "Dark chocolate drip",
+        "img": "https://i.ibb.co/DpsHbD4/dark-chocolate-drip.png"
+      },
+      {
+        "id": 4,
+        "name": "Chocolate mix",
+        "img": "https://i.ibb.co/SwHGQVH/chocolate-mix.png"
+      },
+      {
+        "id": 5,
+        "name": "Dark chocolate shards",
+        "img": "https://i.ibb.co/cxLGQgd/dark-chocolate-shards.png"
+      }
+    ],
+    "best sellers": [
+      {
+        "id": 1,
+        "name": "Oreo Madness",
+        "img": "https://i.ibb.co/jJ1Zcff/oreo.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Blueberry sensation",
+        "img": "https://i.ibb.co/cy3Frkz/blueberry.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Matcha",
+        "img": "https://i.ibb.co/ysySXFt/matcha.jpg"
+      }
+    ]
+  },
+
+  "IceCream": {
+    "cone": [
+      {
+        "id": 1,
+        "name": "Regular cone",
+        "img": "https://i.ibb.co/L6rYBh3/regular.png"
+      },
+      {
+        "id": 2,
+        "name": "Sugar cone",
+        "img": "https://i.ibb.co/gMMGPP2/sugar.png"
+      },
+      {
+        "id": 3,
+        "name": "Waffle cone",
+        "img": "https://i.ibb.co/DrHKv77/waffle.png"
+      },
+      {
+        "id": 4,
+        "name": "Waffle bowl",
+        "img": "https://i.ibb.co/J3sc43N/waffle-bowl.png"
+      },
+      {
+        "id": 5,
+        "name": "Package",
+        "img": "https://i.ibb.co/z5Qhhqh/package.png"
+      }
+    ],
+    "Ice": [
+      {
+        "id": 1,
+        "name": "Pralines n Cream",
+        "img": "https://i.ibb.co/3fpX30q/pralines.png"
+      },
+      {
+        "id": 2,
+        "name": "Rainbow Sherbet",
+        "img": "https://i.ibb.co/Yf1vJ6M/rainbow.png"
+      },
+      {
+        "id": 3,
+        "name": "Vanilla",
+        "img": "https://i.ibb.co/2YM7wjr/vanilla.png"
+      },
+      {
+        "id": 4,
+        "name": "Rocky Road",
+        "img": "https://i.ibb.co/XFH9nLn/rocky.png"
+      },
+      {
+        "id": 5,
+        "name": "Mint Chocolate Chip",
+        "img": "https://i.ibb.co/N3625Kn/mint.png"
+      },
+      { "id": 6, "name": "Moca", "img": "https://i.ibb.co/8gFHGsW/moca.png" },
+      {
+        "id": 7,
+        "name": "Chocolate",
+        "img": "https://i.ibb.co/dQCzgpB/choco.png"
+      },
+      {
+        "id": 8,
+        "name": "Stracciatella",
+        "img": "https://i.ibb.co/DtYkqzY/stracciatella.png"
+      },
+      {
+        "id": 9,
+        "name": "Berry Strawberry",
+        "img": "https://i.ibb.co/fvC8Ssn/strawberry.png"
+      },
+      {
+        "id": 10,
+        "name": "Cookie Dough",
+        "img": "https://i.ibb.co/7pgF2tb/cookies.png"
+      }
+    ],
+    "sprinkles": [
+      {
+        "id": 1,
+        "name": "Pink pearls",
+        "img": "https://i.ibb.co/XLgCVWb/Pink-pearls.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Sugar strands",
+        "img": "https://i.ibb.co/fS8XGyf/Sweet-strands.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Sweet crystal",
+        "img": "https://i.ibb.co/GdMrPjQ/Sweet-crystal.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Sanding sugar",
+        "img": "https://i.ibb.co/C1JpsVS/Sanding-sugar.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Heart-shaped sprinkles",
+        "img": "https://i.ibb.co/VppgmJB/Hearts.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Chocolate chip",
+        "img": "https://i.ibb.co/DQzP70h/Chocolate-chip.jpg"
+      }
+    ],
+    "topping": [
+      {
+        "id": 1,
+        "name": "Salted caramel",
+        "img": "https://i.ibb.co/Dt47B89/salted-caramel.png"
+      },
+      {
+        "id": 2,
+        "name": "Vanilla glaze",
+        "img": "https://i.ibb.co/pzhWKkF/vanilla-glaze.png"
+      },
+      {
+        "id": 3,
+        "name": "Fruit passion",
+        "img": "https://i.ibb.co/608XvWq/fruit-passion.png"
+      }
+    ]
+  },
+
+  "waffle": {
+    "base": [
+      {
+        "id": 1,
+        "name": "Regular Brussels Waffle",
+        "info": "Brussels waffles,made with yeast, are big rectangular waffles that are crispy on the outside and fluffy on the inside with large deep pockets.",
+        "img": "https://i.ibb.co/NpRx2Bg/image.png"
+      },
+      {
+        "id": 2,
+        "name": "Regular Belgium Waffle",
+        "info": "Belgium waffles are very similar to the Brussels waffle, but it is made with baking powder instead which changes the consistency slightly.",
+        "img": "https://i.ibb.co/NpSCZ8t/image.png"
+      },
+      {
+        "id": 3,
+        "name": "Regular Pandan Waffle",
+        "info": "This is the Vietnamese version of the waffle with a very interesting color, since one of the ingredients used to flavor the waffle is Pandan leaves or extract, which gives it a green color and also a nutty flavor.",
+        "img": "https://i.ibb.co/HPT4q0k/image.png"
+      },
+      {
+        "id": 4,
+        "name": "Regular Hong Kong Egg Waffles",
+        "info": "Instead of the traditional pockets indenting a waffle, the Hong Kong egg waffle has egg shaped bubbles sticking outward that are easy to break off and snack on",
+        "img": "https://i.ibb.co/562gxVB/waffle.png"
+      }
+    ],
+    "toppings": [
+      {
+        "id": 1,
+        "name": "Mix of berries",
+        "img": "https://i.ibb.co/Smksj86/image.png"
+      },
+      {
+        "id": 2,
+        "name": "Coconut flakes",
+        "img": "https://i.ibb.co/XScHGc2/image.png"
+      },
+      {
+        "id": 3,
+        "name": "Apples and cinnamon",
+        "img": "https://i.ibb.co/RgZ1xhk/apples.png"
+      },
+      {
+        "id": 4,
+        "name": "Nutella",
+        "img": "https://i.ibb.co/pzWH1TT/image.png"
+      },
+      {
+        "id": 5,
+        "name": "Whipped cream",
+        "img": "https://i.ibb.co/6bys87T/image.png"
+      },
+      {
+        "id": 6,
+        "name": "Pecans",
+        "img": "https://i.ibb.co/80y0C5B/image.png"
+      },
+      {
+        "id": 7,
+        "name": "Cherries",
+        "img": "https://i.ibb.co/1rh4zG5/image.png"
+      },
+      {
+        "id": 8,
+        "name": "Marshmallows",
+        "img": "https://i.ibb.co/NVb12qf/image.png"
+      },
+      {
+        "id": 9,
+        "name": "Bourbon Peaches",
+        "img": "https://i.ibb.co/JC1tSV6/image.png"
+      },
+      {
+        "id": 10,
+        "name": "Maple Syrup",
+        "img": "https://i.ibb.co/3BBknnP/waffle-topping10.png"
+      }
+    ]
+  },
+
+  "homePage": {
+    "bestSellers": [
+      {
+        "id": 1,
+        "name": "Berry Blast",
+        "info": "Berry loaded pancakes with drizzled maple syrup",
+        "img": "https://i.ibb.co/BB6tdh8/fruit-holiday-removebg-preview.png"
+      },
+      {
+        "id": 2,
+        "name": "Kinder Joy",
+        "info": "Kinder Joy flavored ice cream, loaded with lots of Kinder Buenos and chocolate balls. Topped with creamy chocolate syrup.",
+        "img": "https://i.ibb.co/4WWJnSr/kinder-removebg-preview.png"
+      },
+      {
+        "id": 3,
+        "name": "Royal Ferrero",
+        "info": "Hazelnut cupcake topped with ",
+        "img": "https://i.ibb.co/jRqSyVw/ferrero-1-removebg-preview.png"
+      },
+      {
+        "id": 4,
+        "name": "Mango Delight",
+        "info": "cream cheese buttercream on chocolate cake",
+        "img": "https://i.ibb.co/S3WywSN/Mango-Delight-removebg-preview.png"
+      },
+      {
+        "id": 5,
+        "name": "Strawberry",
+        "info": "cream cheese buttercream on red velvet cake",
+        "img": "https://i.ibb.co/DLG1zBZ/Strawberry-Cheesecake-removebg-preview.png"
+      }
+    ],
+
+    "topCreations": [
+      {
+        "id": 1,
+        "name": "Nutty Nutella",
+        "img": "https://i.ibb.co/Tq5HPBC/IMG-0529-scaled-removebg-preview.png"
+      },
+      {
+        "id": 2,
+        "name": "Chocolate Iced Cone",
+        "img": "https://i.ibb.co/TYVJwG5/Krispy-Kreme-Chocolate-Iced-Cone-FT-BLOG0622-removebg-preview.png"
+      },
+      {
+        "id": 3,
+        "name": "Very Berry",
+        "img": "https://i.ibb.co/tDS6JjN/belgian-waffle-ice-cream-fresh-berries-portion-isolated-white-background-top-view-194820131-removebg.png"
+      }
+    ]
+  },
+
+  "CakeMenu": {
+    "basicCakes": [
+      {
+        "id": 1,
+        "name": "Chocolate Truffle",
+        "img": "https://i.ibb.co/4F42y7P/Chocolate1.png",
+        "nutrition": "Calories 440\n% Daily Value*\n22%Total Fat 14.4g\n26%Saturated Fat 5.2g\nTrans Fat 0g\n18%Cholesterol 55mg\n13%Sodium 299mg\n17%Total Carbohydrate 50.7g\n5%Dietary Fiber 1.5g\nSugars 47g\nProtein 5g",
+        "description": "Chocolate truffle cake is a chocolate layer cake recipe with soft, moist chocolate cake, filled with smooth, fluffy whipped chocolate ganache and frosted with rich, silky smooth chocolate ganache."
+      },
+      {
+        "id": 2,
+        "name": "Double Chocolate",
+        "img": "https://i.ibb.co/JRq7CDY/Chocolate2.png",
+        "nutrition": "Calories 440\n% Daily Value*\n22%Total Fat 14.4g\n26%Saturated Fat 5.2g\nTrans Fat 0g\n18%Cholesterol 55mg\n13%Sodium 299mg\n17%Total Carbohydrate 50.7g\n5%Dietary Fiber 1.5g\nSugars 47g\nProtein 5g",
+        "description": "This Double Chocolate Cake is a moist, rich chocolate cake that is topped with a fudge chocolate frosting. It is the perfect cake for any chocoholic!"
+      },
+      {
+        "id": 3,
+        "name": "Berry Sponge",
+        "img": "https://i.ibb.co/1Qpq8jd/Berry-Sponge.png",
+        "nutrition": "Calories 440\n% Daily Value*\n22%Total Fat 14.4g\n26%Saturated Fat 5.2g\nTrans Fat 0g\n18%Cholesterol 55mg\n13%Sodium 299mg\n17%Total Carbohydrate 50.7g\n5%Dietary Fiber 1.5g\nSugars 47g\nProtein 5g",
+        "description": "This cake is made with three layers of light and airy sponge cake generously filled with fluffy whipped cream then topped with lots of fresh juicy berries."
+      },
+      {
+        "id": 4,
+        "name": "Creamy Vanilla",
+        "img": "https://i.ibb.co/T2Ym84c/alexandra-golovac-n-N-Aj-O-Pjgg-unsplash-modified.png",
+        "nutrition": "Calories 440\n% Daily Value*\n22%Total Fat 14.4g\n26%Saturated Fat 5.2g\nTrans Fat 0g\n18%Cholesterol 55mg\n13%Sodium 299mg\n17%Total Carbohydrate 50.7g\n5%Dietary Fiber 1.5g\nSugars 47g\nProtein 5g",
+        "description": "This vanilla cake has an amazing flavor, a soft, cloud-like crumb, and is so incredibly moist. Using cake flour, the reverse creaming method, lots of butter, and a touch of oil keeps this cake moist. Light and creamy buttercream frosting that’s easy to make and not too sweet makes this the PERFECT vanilla cake."
+      },
+      {
+        "id": 5,
+        "name": "Oreo",
+        "img": "https://i.ibb.co/0FpJwWD/OreoCake.png",
+        "nutrition": "Calories 440\n% Daily Value*\n22%Total Fat 14.4g\n26%Saturated Fat 5.2g\nTrans Fat 0g\n18%Cholesterol 55mg\n13%Sodium 299mg\n17%Total Carbohydrate 50.7g\n5%Dietary Fiber 1.5g\nSugars 47g\nProtein 5g",
+        "description": "This decadent Oreo cake is chock full of creamy, crunchy chopped Oreos, and the whole thing is crowned with a rich chocolate ganache!"
+      },
+      {
+        "id": 6,
+        "name": "Ferrero Rocher",
+        "img": "https://i.ibb.co/4VdkBgk/Ferrero.png",
+        "nutrition": "Calories 440\n% Daily Value*\n22%Total Fat 14.4g\n26%Saturated Fat 5.2g\nTrans Fat 0g\n18%Cholesterol 55mg\n13%Sodium 299mg\n17%Total Carbohydrate 50.7g\n5%Dietary Fiber 1.5g\nSugars 47g\nProtein 5g",
+        "description": "Ferrero Rocher Cake is made of Hazelnut Sponge Cake layers, then sandwiched with Nutella Buttercream and some wafers for the crunch. The cake looks and tastes like the most amazing Hazelnut Truffle!"
+      }
+    ],
+    "fruitCakes": [
+      {
+        "id": 1,
+        "name": "Blueberry",
+        "img": "https://i.ibb.co/BzvbtVT/Blueberry.png",
+        "nutrition": "Calories 440\n% Daily Value*\n22%Total Fat 14.4g\n26%Saturated Fat 5.2g\nTrans Fat 0g\n18%Cholesterol 55mg\n13%Sodium 299mg\n17%Total Carbohydrate 50.7g\n5%Dietary Fiber 1.5g\nSugars 47g\nProtein 5g",
+        "description": "This blueberry cake is bursting with delicious blueberry flavor. It's super light, moist, and tender — a great cake to take along to a summer picnic."
+      },
+      {
+        "id": 2,
+        "name": "Fruit Punch",
+        "img": "https://i.ibb.co/smsBw0S/Fruit-Punch.png",
+        "nutrition": "Calories 440\n% Daily Value*\n22%Total Fat 14.4g\n26%Saturated Fat 5.2g\nTrans Fat 0g\n18%Cholesterol 55mg\n13%Sodium 299mg\n17%Total Carbohydrate 50.7g\n5%Dietary Fiber 1.5g\nSugars 47g\nProtein 5g",
+        "description": "Fruit punch poke cake is made with cake mix, fruit punch and a pineapple/coconut icing that soaks through the cake."
+      },
+      {
+        "id": 3,
+        "name": "Tropical Fantasy",
+        "img": "https://i.ibb.co/74KyNFX/Tropical-Fantasy.png",
+        "nutrition": "Calories 440\n% Daily Value*\n22%Total Fat 14.4g\n26%Saturated Fat 5.2g\nTrans Fat 0g\n18%Cholesterol 55mg\n13%Sodium 299mg\n17%Total Carbohydrate 50.7g\n5%Dietary Fiber 1.5g\nSugars 47g\nProtein 5g",
+        "description": "Tropical Sunshine Cake is a great fit for brunch, breakfast party or dessert. Topped with bits of pineapple, toasted coconut flakes and chopped almonds, it will make an elegant addition to your table."
+      },
+      {
+        "id": 4,
+        "name": "Strawberry",
+        "img": "https://i.ibb.co/wBPt9zQ/Strawberry.png",
+        "nutrition": "Calories 440\n% Daily Value*\n22%Total Fat 14.4g\n26%Saturated Fat 5.2g\nTrans Fat 0g\n18%Cholesterol 55mg\n13%Sodium 299mg\n17%Total Carbohydrate 50.7g\n5%Dietary Fiber 1.5g\nSugars 47g\nProtein 5g",
+        "description": "The cake is light, springy, soft, and fluffy. The reduced strawberry puree will tint the cake batter a lovely pastel pink"
+      },
+      {
+        "id": 5,
+        "name": "RaspberryChocolate",
+        "img": "https://i.ibb.co/6mrYSWs/Raspberry-Chocolate.png",
+        "nutrition": "Calories 440\n% Daily Value*\n22%Total Fat 14.4g\n26%Saturated Fat 5.2g\nTrans Fat 0g\n18%Cholesterol 55mg\n13%Sodium 299mg\n17%Total Carbohydrate 50.7g\n5%Dietary Fiber 1.5g\nSugars 47g\nProtein 5g",
+        "description": "Perfectly rich and moist Chocolate Raspberry Cake made from scratch with a delicious chocolate frosting and raspberry filling made from fresh raspberries. It’s the perfect way to celebrate any occasion!"
+      },
+      {
+        "id": 6,
+        "name": "MangoDelight",
+        "img": "https://i.ibb.co/nnhhGrQ/Mango-Delight.png",
+        "nutrition": "Calories 440\n% Daily Value*\n22%Total Fat 14.4g\n26%Saturated Fat 5.2g\nTrans Fat 0g\n18%Cholesterol 55mg\n13%Sodium 299mg\n17%Total Carbohydrate 50.7g\n5%Dietary Fiber 1.5g\nSugars 47g\nProtein 5g",
+        "description": "Mango Delight cake is a decadent cake made from chocolate, whipping cream, butter, maida, Sugar,eggs, vanilla essence,Mango Crush with topping of condensed milk, whipping cream and fresh cream fabricated deliciously to make probably the most mouth watering Mango Delight Cake ever."
+      }
+    ],
+    "cheeseCakes": [
+      {
+        "id": 1,
+        "name": "Raspberry",
+        "img": "https://i.ibb.co/CQRqhnB/Raspberry-Cheesecake.png",
+        "nutrition": "Calories 581\n% Daily Value *\nTotal Fat 41g\t53 %\n   Saturated Fat 18g\t90 %\nCholesterol 100mg\t33 %\nSodium 793mg\t34 %\nTotal Carbohydrate 46g\t17 %\n   Dietary Fiber 0.7g\t2 %\n   Sugar 39g\t\nProtein 10g\t20 %",
+        "description": "You’ll love this incredibly rich and creamy baked raspberry cheesecake. It has the most amazing intense raspberry flavour and the raspberry sauce it a total revelation, adding a wonderful tangy freshness and transforming the cheesecake into a truly unforgettable dessert. It’s also incredibly easy to make, no water bath and no stand or hand mixer needed!"
+      },
+      {
+        "id": 2,
+        "name": "Strawberry",
+        "img": "https://i.ibb.co/NV0jpzz/Strawberry-Cheesecake.png",
+        "nutrition": "Calories 581\n% Daily Value *\nTotal Fat 41g\t53 %\n   Saturated Fat 18g\t90 %\nCholesterol 100mg\t33 %\nSodium 793mg\t34 %\nTotal Carbohydrate 46g\t17 %\n   Dietary Fiber 0.7g\t2 %\n   Sugar 39g\t\nProtein 10g\t20 %",
+        "description": "This is THE BEST strawberry cheesecake you’ll every try. With a perfectly creamy and rich strawberry filling, and a juicy and syrupy strawberry topping, it’s absolutely bursting with strawberry flavour"
+      },
+      {
+        "id": 3,
+        "name": "Red Velvet",
+        "img": "https://i.ibb.co/hc70KJb/Red-Velvet-Cheesecake.png",
+        "nutrition": "Calories 581\n% Daily Value *\nTotal Fat 41g\t53 %\n   Saturated Fat 18g\t90 %\nCholesterol 100mg\t33 %\nSodium 793mg\t34 %\nTotal Carbohydrate 46g\t17 %\n   Dietary Fiber 0.7g\t2 %\n   Sugar 39g\t\nProtein 10g\t20 %",
+        "description": "Made with a classic Red Velvet crust, this Cheesecake is one of the smoothest and creamiest cheesecakes I've ever tasted. It has that light tanginess that's so loved in a red velvet dessert, and the whipped cream cheese topping finishes it off perfectly!"
+      },
+      {
+        "id": 4,
+        "name": "Classic New York Style",
+        "img": "https://i.ibb.co/bbJ9RNL/New-York-Cheesecake.png",
+        "nutrition": "Calories 581\n% Daily Value *\nTotal Fat 41g\t53 %\n   Saturated Fat 18g\t90 %\nCholesterol 100mg\t33 %\nSodium 793mg\t34 %\nTotal Carbohydrate 46g\t17 %\n   Dietary Fiber 0.7g\t2 %\n   Sugar 39g\t\nProtein 10g\t20 %",
+        "description": "This New York-style cheesecake with a buttery graham cracker crust and rich, dense filling made from cream cheese, sour cream, vanilla and a hint of lemon is the secret to success"
+      },
+      {
+        "id": 5,
+        "name": "Tiramisu",
+        "img": "https://i.ibb.co/1sFHP0L/Tiramisu-Cheesecake.png",
+        "nutrition": "Calories 581\n% Daily Value *\nTotal Fat 41g\t53 %\n   Saturated Fat 18g\t90 %\nCholesterol 100mg\t33 %\nSodium 793mg\t34 %\nTotal Carbohydrate 46g\t17 %\n   Dietary Fiber 0.7g\t2 %\n   Sugar 39g\t\nProtein 10g\t20 %",
+        "description": "Tiramisu Cheesecake has a creamy coffee flavored filling with a white chocolate whipped topping and a dusting of cocoa powder. This cheesecake is the perfect dessert for holiday parties."
+      },
+      {
+        "id": 6,
+        "name": "Chocolate",
+        "img": "https://i.ibb.co/CH9gGh1/Chocolate-Cheesecake.png",
+        "nutrition": "Calories 581\n% Daily Value *\nTotal Fat 41g\t53 %\n   Saturated Fat 18g\t90 %\nCholesterol 100mg\t33 %\nSodium 793mg\t34 %\nTotal Carbohydrate 46g\t17 %\n   Dietary Fiber 0.7g\t2 %\n   Sugar 39g\t\nProtein 10g\t20 %",
+        "description": "Chocolate Cheesecake is a chocolate lover's delight with an Oreo cookie crust filled in and baked with a rich and creamy chocolate cheesecake and topped with a chocolate ganache. This is the richest, most chocolatey cheesecake you will ever taste!"
+      }
+    ]
+  },
+
+  "MenuIceCream": {
+    "Sundaes": [
+      {
+        "id": 1,
+        "name": "Caramel fudge",
+        "img": "https://i.ibb.co/JzFxdC7/caramel.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "This stunning salted caramel ice cream sundae recipe makes an indulgent treat, with a homemade salted caramel sauce drizzled lovingly over mounds of vanilla and salted caramel ice cream topped with pieces of caramel and chocolate"
+      },
+      {
+        "id": 2,
+        "name": "Kinder",
+        "img": "https://i.ibb.co/fxvDTw8/kinder.png",
+        "nutrition": "Calories 332 (1 serving, 188g), \n12% Total Fat 7.3g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 8g",
+        "description": "Layers of Kinder Bueno and Vanilla ice cream, smothered with Nutella chocolate sauce, topped with kinder bueno balls"
+      },
+      {
+        "id": 3,
+        "name": "Moca love",
+        "img": "https://i.ibb.co/McF8gN3/moca.png",
+        "nutrition": "Calories 348 (1 serving, 188g), \n10% Total Fat 6.8g,\n23% Saturated Fat 4.9g,\n10% Cholesterol 30mg,\n8% Sodium 180mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 39g,\nProtein 7g",
+        "description": "Moca cream Sundae with layers of chocolate coffee beans, coffee syrup, and drizzled with chocolate over a cookie crumble base"
+      },
+      {
+        "id": 4,
+        "name": "Strawberry dream",
+        "img": "https://i.ibb.co/vkCw8xw/strawberry.png",
+        "nutrition": "Calories 344 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 48g,\nProtein 7g",
+        "description": "A sweet and slightly tart strawberry sauce is paired with vanilla ice cream and garnished with even more fresh strawberries and your favorite toppings"
+      },
+      {
+        "id": 5,
+        "name": "Plain vanilla",
+        "img": "https://i.ibb.co/KFY05pK/plain.png",
+        "nutrition": "Calories 323 (1 serving, 188g), \n9% Total Fat 6g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 35g,\nProtein 8g",
+        "description": "Smooth and creamy vanilla soft serve, topped with decadent hot fudge sauce"
+      }
+    ],
+    "IceCreamBowls": [
+      {
+        "id": 1,
+        "name": "Caramel dream",
+        "img": "https://i.ibb.co/ykQ1p12/caramel.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "Based on a traditional candy from Brittany (and a favorite flavor pairing among French and American chefs), the combination of salty and sweet exerts an almost primordial pull, and cream, milk, and eggs provide lush, luxurious texture."
+      },
+      {
+        "id": 2,
+        "name": "Chocolate",
+        "img": "https://i.ibb.co/w4M7KcB/chocolate.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "Our chocolate ice cream gets its chocolatey awesomeness from Fairtrade Certified® cocoa. Fairtrade ensures cocoa growers a fair price for their harvests, enabling them to protect their land & livelihoods, provide for their families, and invest in their future. Enjoy!"
+      },
+      {
+        "id": 3,
+        "name": "Matcha",
+        "img": "https://i.ibb.co/HzvmQv1/matcha.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "Green tea ice cream or matcha ice  is a Japanese ice cream flavour. This flavour is popular in Japan and other parts of East Asia."
+      },
+      {
+        "id": 4,
+        "name": "Mocha",
+        "img": "https://i.ibb.co/bKYyQB3/moca.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "Somewhere between the creamy coffee coffee ice cream & the buzzbuzzbuzz of espresso fudge, it hits you: you’re wide awake & in lovelovelove."
+      },
+      {
+        "id": 5,
+        "name": "Vanilla",
+        "img": "https://i.ibb.co/S5XG0Z0/vanilla.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "When you dig into this pint, you'll find a rich, creamy Vanilla that's more vanilla-tasting than any Vanilla you've ever tasted."
+      }
+    ],
+    "Cones": [
+      {
+        "id": 1,
+        "name": "Caramel",
+        "img": "https://i.ibb.co/cxJnccv/caramel.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "Vanilla bean ice cream crackling with roasted almond slivers, fudge flakes, and a salted caramel swirl. You know, we're having trouble deciding if that sounds nearly perfect or just unbelievably delicious."
+      },
+      {
+        "id": 2,
+        "name": "Chocolate",
+        "img": "https://i.ibb.co/4WgYwQs/chocolate.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "Our chocolate ice cream gets its chocolatey awesomeness from Fairtrade Certified® cocoa. Fairtrade ensures cocoa growers a fair price for their harvests, enabling them to protect their land & livelihoods, provide for their families, and invest in their future. Enjoy!"
+      },
+      {
+        "id": 3,
+        "name": "Peanut butter",
+        "img": "https://i.ibb.co/6X3S2jX/pb.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "We interrupt our regularly scheduled programming to remind you how much you love ice cream that’s perfectly peanut buttery & peanut butter cuppity at the same time."
+      },
+      {
+        "id": 4,
+        "name": "Stracciatella",
+        "img": "https://i.ibb.co/0Y54sG6/stracciatella.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "We interrupt our regularly scheduled programming to remind you how much you love ice cream that’s perfectly peanut buttery & peanut butter cuppity at the same time."
+      },
+      {
+        "id": 5,
+        "name": "Strawberry",
+        "img": "https://i.ibb.co/WWFfpyk/strawberry.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "Get a little nostalgic as you savor the flavor of sweet cream ice cream mixed with pie crust pastry, white fudge bits & jam-packed with swirls of strawberry-greatness."
+      }
+    ]
+  },
+
+  "MenuCupcake": {
+    "CupcakesTopped": [
+      {
+        "id": 1,
+        "name": "Cherry",
+        "img": "https://i.ibb.co/3Y53cjv/cherry.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "These chocolate cupcakes are filled with delicious cherries and are topped with a vanilla buttercream."
+      },
+      {
+        "id": 2,
+        "name": "Ferrero",
+        "img": "https://i.ibb.co/LxvGLCY/ferrero.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "These rich and moist chocolate cupcakes are stuffed with ferrero rocher chocolates, topped with silky nutella buttercream, chopped hazelnuts, and more ferrero rocher chocolates on top!"
+      },
+      {
+        "id": 3,
+        "name": "Lemon haze",
+        "img": "https://i.ibb.co/2qWCKM6/lemon-haze.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "Our homemade lemon cupcakes are incredibly soft and bursting with lemon flavours"
+      },
+      {
+        "id": 4,
+        "name": "Oreo",
+        "img": "https://i.ibb.co/zbWHF5Z/oreo.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "These delicious Oreo cupcakes will melt in your mouth and that cookies and cream frosting on top is nearly too good too be true."
+      },
+      {
+        "id": 5,
+        "name": "Red Velvet",
+        "img": "https://i.ibb.co/23fW5ZM/red-velvet.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "Red Velvet Cake is a striking scarlet color that’s velvety and soft, with a hint of vanilla and chocolate flavour. Topped with fluffy cream cheese frosting, it loves to steal the lime light. And we happily let it!"
+      }
+    ],
+    "CupcakesPlain": [
+      {
+        "id": 1,
+        "name": "Brownie cupcake",
+        "img": "https://i.ibb.co/nkzk3J0/brownie.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "Super fudgy Brownie Cupcakes with crinkly and chewy tops."
+      },
+      {
+        "id": 2,
+        "name": "Lemon",
+        "img": "https://i.ibb.co/Lv0L5Dw/lemon.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "These easy lemon cupcakes are moist, fluffy, zingy with an incredible lemon buttercream that's a lemon-lover's dream"
+      },
+      {
+        "id": 3,
+        "name": "Mint",
+        "img": "https://i.ibb.co/Sxzth8W/mint.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": " Rich, super soft Chocolate Cupcakes with super creamy Mint Frosting"
+      },
+      {
+        "id": 4,
+        "name": "Vanilla",
+        "img": "https://i.ibb.co/XJx1HK5/vanilla.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "Fluffy vanilla cupcake with creamy icing for cupcakes is the perfect addition to any situation!"
+      },
+      {
+        "id": 5,
+        "name": "Whipped Cream",
+        "img": "https://i.ibb.co/Khqq0DC/whipped-cream.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "Light fluffy vanilla cupcakes with vanilla whipped cream."
+      }
+    ]
+  },
+
+  "MenuWaffle": {
+    "Waffles": [
+      {
+        "id": 1,
+        "name": "Chocolate",
+        "img": "https://i.ibb.co/NmHZ3Lf/chocolate.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "They come out nice and crisp on the outside and they're light and fluffy on the inside. The chocolate flavor is out of this world too."
+      },
+      {
+        "id": 2,
+        "name": "Ice cream",
+        "img": "https://i.ibb.co/YjB9JzV/ice-cream.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "Homemade waffles with ice cream on top are a delicious way to cool off in the summer!"
+      },
+      {
+        "id": 3,
+        "name": "Maple syrup",
+        "img": "https://i.ibb.co/ct7zGzc/maple-syrup.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "The toffee, buttery, smokey sweetness of maple syrup is infused into these waffles; a delicious choice!"
+      },
+      {
+        "id": 4,
+        "name": "Plain",
+        "img": "https://i.ibb.co/YtT1ZwT/plain.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "Crisp raised cake baked in a waffle iron, a hinged metal griddle with a honeycombed or fancifully engraved surface that allows a thin layer of batter to cook evenly and crisply"
+      },
+      {
+        "id": 5,
+        "name": "Whipped cream",
+        "img": "https://i.ibb.co/6sm90vG/whipped-cream.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "Perfect Waffles with Strawberries and Whip Cream are a Sunday morning breakfast favorite in our house."
+      }
+    ],
+    "WafflesBubbly": [
+      {
+        "id": 1,
+        "name": "Plain",
+        "img": "https://i.ibb.co/WtHYKmr/plainbub.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "This easy homemade bubble waffle recipe is crispy on the outside and soft and spongy on the inside"
+      },
+      {
+        "id": 2,
+        "name": "Pecan",
+        "img": "https://i.ibb.co/Cwc74Hp/walnut.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "This dessert consists of vanilla gelato, banana slices, salted caramel, crumble and pecans. The combination of soft fruit, spongy waffle, and crunchy toppings makes for a pleasantly textured dessert experience!"
+      },
+      {
+        "id": 3,
+        "name": "Whipped cream",
+        "img": "https://i.ibb.co/s5gpG5J/whipped.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "A whipped cream puff can feature a classic vanilla waffle, or an ube waffle to add to the intensity of the flavor. Topped with whipped cream, and of course delicious ice cream."
+      },
+      {
+        "id": 4,
+        "name": "Matcha",
+        "img": "https://i.ibb.co/Fm7jZWs/matcha.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "A matcha and poppy seed eggette, with green tea ice cream, red beans, a wafer stick, and whipped cream for green tea lovers."
+      },
+      {
+        "id": 5,
+        "name": "Oreo",
+        "img": "https://i.ibb.co/jr1Gk8p/oreo.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "Instead of the usual hard ice cream, this waffle features soft serve with hojicha ice cream, a Japanese green tea, and milk. Finally, it is topped with an Oreo cookie crumble, so that you can really feel like you’re having tea and cookies!"
+      }
+    ]
+  },
+
+  "MenuPancakes": {
+    "Pancake": [
+      {
+        "id": 1,
+        "name": "Fruit holiday",
+        "img": "https://i.ibb.co/FwpkqTX/fruit-holiday.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "Get a little nostalgic as you savor the flavor of sweet cream ice cream mixed with pie crust pastry, white fudge bits & jam-packed with swirls of strawberry-greatness."
+      },
+      {
+        "id": 2,
+        "name": "Maple syrup",
+        "img": "https://i.ibb.co/7kk0cRn/maple-syrup.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "Get a little nostalgic as you savor the flavor of sweet cream ice cream mixed with pie crust pastry, white fudge bits & jam-packed with swirls of strawberry-greatness."
+      },
+      {
+        "id": 3,
+        "name": "Nutella",
+        "img": "https://i.ibb.co/HN7c6dC/nutella.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "Get a little nostalgic as you savor the flavor of sweet cream ice cream mixed with pie crust pastry, white fudge bits & jam-packed with swirls of strawberry-greatness."
+      },
+      {
+        "id": 4,
+        "name": "Nutty dream",
+        "img": "https://i.ibb.co/N6NM02m/nutty-dream.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "Get a little nostalgic as you savor the flavor of sweet cream ice cream mixed with pie crust pastry, white fudge bits & jam-packed with swirls of strawberry-greatness."
+      },
+      {
+        "id": 5,
+        "name": "White chocolate",
+        "img": "https://i.ibb.co/M2kYDgf/white-chocolate.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "Get a little nostalgic as you savor the flavor of sweet cream ice cream mixed with pie crust pastry, white fudge bits & jam-packed with swirls of strawberry-greatness."
+      }
+    ],
+    "Crepes": [
+      {
+        "id": 1,
+        "name": "Apple cinnamon",
+        "img": "https://i.ibb.co/FH4XPLh/apple-cinamon.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "Get a little nostalgic as you savor the flavor of sweet cream ice cream mixed with pie crust pastry, white fudge bits & jam-packed with swirls of strawberry-greatness."
+      },
+      {
+        "id": 2,
+        "name": "Double chocolate",
+        "img": "https://i.ibb.co/0XL9vbJ/double-chocolate.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "Get a little nostalgic as you savor the flavor of sweet cream ice cream mixed with pie crust pastry, white fudge bits & jam-packed with swirls of strawberry-greatness."
+      },
+      {
+        "id": 3,
+        "name": "Fruit nutella",
+        "img": "https://i.ibb.co/4RrCxsR/fruit-nutella.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "Get a little nostalgic as you savor the flavor of sweet cream ice cream mixed with pie crust pastry, white fudge bits & jam-packed with swirls of strawberry-greatness."
+      },
+      {
+        "id": 4,
+        "name": "Marmelade",
+        "img": "https://i.ibb.co/ssf9Vxt/marmelade.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "Get a little nostalgic as you savor the flavor of sweet cream ice cream mixed with pie crust pastry, white fudge bits & jam-packed with swirls of strawberry-greatness."
+      },
+      {
+        "id": 5,
+        "name": "Strawberry banana",
+        "img": "https://i.ibb.co/N6Mf3Sy/strawberry-banana.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "Get a little nostalgic as you savor the flavor of sweet cream ice cream mixed with pie crust pastry, white fudge bits & jam-packed with swirls of strawberry-greatness."
+      }
+    ]
+  },
+
+  "None": [
+    { "id": 1, "name": "none", "img": "https://i.ibb.co/TKgM8hr/none-icon.png" }
+  ]
+}

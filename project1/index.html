@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap" rel="stylesheet">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+
+    <link href="style.css" rel="stylesheet"/>
+</head>
+<body>
+    <section class="page1">
+        <h1 class="heading">Fantastic Patissiere</h1>
+    <div class="container">
+        <img src="media/p1.png">
+           <div class="choose">
+             <h2>What do you want to make today?</h1>
+                <div class="buttoncontainer">
+                <button id="cupcakebutton" class="button">Cupcake</button>
+                <button id="cakebutton" class="button">Cake</button>
+                <button id="icebutton" class="button">Ice-cream</button>
+                <button id="wafflebutton" class="button">waffle</button>
+            </div>
+           </div>
+        
+    </div>
+    </section>
+
+    <section id="pagecupcake" class="pagemake">
+         <h3>Cupcake</h3>
+          <div class="makechoose">
+             <p>Choose your Sprinkles:</p>
+             <p>Choose your Toping:</p>
+             <p>Choose your Icing:</p>
+             <p>Choose your Cake:</p>
+          </div>
+          <div class="makebutton">
+             <button id="clearbutton" class="button">Clear</button>
+             <button id="finishbutton" class="button">Finished!</button>
+          </div>
+    </section>
+
+    <section id="pagecake" class="pagemake">
+         <h4>Cake</h4>
+           <div class="makechoose">
+             <p>Choose your Topping:</p> <select id="caketoppingselect" name="caketoppingname"></select>
+             <p>Choose your Buttercream:</p> <select id="cakebuttercream"></select>
+             <p>Choose your Cake:</p> <select id="cakecake"></select>
+        </div>
+        <div class="makebutton">
+            <button id="clearbutton" class="button">Clear</button>
+            <button id="finishbutton" class="button">Finished!</button>
+         </div>
+    </section>
+
+    <section id="pageice" class="pagemake">
+         <h5>Ice-cream</h5>
+           <div class="makechoose">
+             <p>Choose your Sprinkles:</p>
+             <p>Choose your Topping:</p>
+             <p>Choose your Ice-cream:</p>
+             <p>Choose your Cone:</p>
+          </div>
+          <div class="makebutton">
+            <button id="clearbutton" class="button">Clear</button>
+            <button id="finishbutton" class="button">Finished!</button>
+         </div>
+    </section>
+
+    <section id="pagewaffle" class="pagemake">
+         <h6>Waffle</h6>
+           <div class="makechoose">
+              <p>Choose your Topping:</p>
+              <p>Choose your Base:</p>
+            </div>
+            <div class="makebutton">
+                <button id="clearbutton" class="button">Clear</button>
+                <button id="finishbutton" class="button">Finished!</button>
+             </div>
+    </section>
+    
+    <section id="pagefinish" class="pagefinish">
+         <div class="finishimg">
+            <img src="media/p2.png">
+            <div class="finishimg2">
+                <h6>Finished!</h6>
+                <img src="media/p2.png">
+            </div>
+         </div>
+         <div class="finishbutton">
+            <button id="backbutton" class="button">Try Again!</button>
+         </div>
+   </section>
+
+    <script src="app.js"></script>
+    
+</body>
+</html>
