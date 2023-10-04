@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fantastic Patissiere</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Gabarito&family=Indie+Flower&display=swap" rel="stylesheet">
+
+    <link href="style.css" rel="stylesheet"/>
+
+</head>
+<body>
+    <section id = "page1" class="page1">
+      <div id="canvas-container"></div>
+        <h1 class="heading">Fantastic Patissiere</h1>
+      <div class="container">
+        <img src="media/p1.png">
+           <div class="choose1">
+             <h2 class="p1">What do you want to have today?</h1>
+                <div class="buttoncontainer">
+                <button id="cupcakebutton" class="button">Cupcake</button>
+                <button id="cakebutton" class="button">Cake</button>
+                <button id="icebutton" class="button">Ice-cream</button>
+                <button id="wafflebutton" class="button">Waffle</button>
+            </div>
+           </div>
+
+    </div>
+    </section>
+
+    <section id="pagecupcake" class="pagemake">
+         <h3 class="heading1">Cupcake</h3>
+          <div class="makechoose">
+            <div class ="choose">
+               <p for="cupsprinkle-select">Choose your Sprinkles:</p>
+               <select name="cupsprinkle" id="cupsprinkle-select"></select>
+               <img id="cupsprinkle-img" />
+            </div>
+
+            <div class ="choose">
+               <p for="cupcaketopping-select">Choose your Topping:</p>
+               <select name="cupcaketopping" id="cupcaketopping-select"></select>
+               <img id="cupcaketopping-img" />
+            </div>
+
+            <div class ="choose">
+               <p for="cupicing-select">Choose your Icing:</p>
+               <select name="cupicing" id="cupicing-select"></select>
+               <img id="cupicing-img" />
+            </div>
+
+            <div class ="choose">
+               <p for="cupcake-select">Choose your Cake:</p>
+               <select name="cupcake" id="cupcake-select"></select>
+               <img id="cupcake-img" />
+            </div>
+          </div>
+          <div class="makebutton">
+            <button id="clearbutton1" class="button" onclick="clearOption()">Clear</button>
+            <button id="backbutton1" class="button">Back</button>
+            <button id="finishbutton1" class="button" onclick="genePic()">Finished!</button>
+          </div>
+    </section>
+
+    <section id="pagecake" class="pagemake">
+         <h4 class="heading1">Cake</h4>
+           <div class="makechoose">
+            <div class="choose">
+              <p for="toppings-select">Choose your topping:</p>
+              <select name="toppings" id="toppings-select"></select>
+              <img id="toppings-img" />
+           </div>
+
+           <div class="choose">
+             <p for="buttercream-select">Choose your Buttercream:</p>
+             <select name="buttercream" id="buttercream-select"></select>
+             <img id="buttercream-img" />
+           </div>
+
+           <div class="choose">
+              <p for="cake-select">Choose your Cake:</p>
+              <select name="cake" id="cake-select"></select>
+              <img id="cake-img" />
+           </div>
+        </div>
+        <div class="makebutton">
+         <button id="clearbutton2" class="button" onclick="clearOption()">Clear</button>
+         <button id="backbutton2" class="button">Back</button>
+         <button id="finishbutton2" class="button" onclick="genePic()">Finished!</button>
+         </div>
+    </section>
+
+    <section id="pageice" class="pagemake">
+         <h5 class="heading1">Ice-cream</h5>
+           <div class="makechoose">
+            <div class ="choose">
+             <p for="sprinkle-select">Choose your Sprinkles:</p>
+             <select name="sprinkle" id="sprinkle-select"></select>
+             <img id="sprinkle-img" />
+           </div>
+
+            <div class ="choose">
+             <p for="icetopping-select">Choose your Topping:</p>
+             <select name="icetopping" id="icetopping-select"></select>
+             <img id="icetopping-img" />
+            </div>
+
+             <div class ="choose">
+                <p for="ice-select">Choose your Ice-cream:</p>
+                <select name="ice" id="ice-select"> </select>
+                <img id="ice-img" />
+            </div>
+
+             <div class ="choose">
+                 <p for="cone-select">Choose your Cone:</p>
+                 <select name="cone" id="cone-select"></select>
+                 <img id="cone-img" />
+             </div>
+
+          </div>
+          <div class="makebutton">
+            <button id="clearbutton3" class="button" onclick="clearOption()">Clear</button>
+            <button id="backbutton3" class="button">Back</button>
+            <button id="finishbutton3" class="button" onclick="genePic()">Finished!</button>
+         </div>
+    </section>
+
+    <section id="pagewaffle" class="pagemake">
+         <h6 class="heading1">Waffle</h6>
+           <div class="makechoose">
+              <div class ="choose">
+                <p for="waffletoppings-select">Choose your Topping:</p>
+                <select name="waffletoppings" id="waffletoppings-select"></select>
+                <img id="waffletoppings-img" />
+              </div>
+
+              <div class ="choose">
+                 <p for="base-select">Choose your Base:</p>
+                 <select name="base" id="base-select"></select>
+                 <img id="base-img" />
+              </div>
+
+            </div>
+            <div class="makebutton">
+               <button id="clearbutton4" class="button" onclick="clearOption()">Clear</button>
+               <button id="backbutton4" class="button">Back</button>
+               <button id="finishbutton4" class="button" onclick="genePic()">Finished!</button>
+             </div>
+    </section>
+
+    <section id="pagefinish" class="pagefinish">
+      <div id="canvas-container"></div>
+         <div class="finishimg">
+            <img src="media/p2.png">
+            <div class="finishimg2">
+                <h6 class="heading1">Order Recieved!</h6>
+                <p class="p2">Hope to see you soon. </p>
+                <button id="backbutton5" class="button">Order Again!</button>
+            </div>
+         </div>
+         
+   </section>
+   <script src="app.js"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.7.0/p5.js"></script>
+</body>
+</html>
